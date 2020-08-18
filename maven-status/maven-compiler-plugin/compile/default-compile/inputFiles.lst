@@ -1,0 +1,11 @@
+/home/kamil/Moje pliki/Java/Zadanie domowe/nowyMagazyn/src/main/java/pl/camp/it/nowyMagazyn/App.java
+/home/kamil/Moje pliki/Java/Zadanie domowe/nowyMagazyn/src/main/java/pl/camp/it/nowyMagazyn/model/Product.java
+/home/kamil/Moje pliki/Java/Zadanie domowe/nowyMagazyn/src/main/java/pl/camp/it/nowyMagazyn/service/IUserService.java
+/home/kamil/Moje pliki/Java/Zadanie domowe/nowyMagazyn/src/main/java/pl/camp/it/nowyMagazyn/appConfiguration.java
+/home/kamil/Moje pliki/Java/Zadanie domowe/nowyMagazyn/src/main/java/pl/camp/it/nowyMagazyn/service/impl/UserServiceImpl.java
+/home/kamil/Moje pliki/Java/Zadanie domowe/nowyMagazyn/src/main/java/pl/camp/it/nowyMagazyn/DAO/impl/UserDAOImpl.java
+/home/kamil/Moje pliki/Java/Zadanie domowe/nowyMagazyn/src/main/java/pl/camp/it/nowyMagazyn/model/Category.java
+/home/kamil/Moje pliki/Java/Zadanie domowe/nowyMagazyn/src/main/java/pl/camp/it/nowyMagazyn/DAO/IUserDAO.java
+/home/kamil/Moje pliki/Java/Zadanie domowe/nowyMagazyn/src/main/java/pl/camp/it/nowyMagazyn/model/User.java
+/home/kamil/Moje pliki/Java/Zadanie domowe/nowyMagazyn/src/main/java/pl/camp/it/nowyMagazyn/controlers/AutenticationController.java
+/home/kamil/Moje pliki/Java/Zadanie domowe/nowyMagazyn/src/main/java/pl/camp/it/nowyMagazyn/controlers/commonController.java

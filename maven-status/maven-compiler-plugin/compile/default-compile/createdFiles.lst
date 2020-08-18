@@ -1,0 +1,11 @@
+pl/camp/it/nowyMagazyn/model/User.class
+pl/camp/it/nowyMagazyn/controlers/commonController.class
+pl/camp/it/nowyMagazyn/model/Category.class
+pl/camp/it/nowyMagazyn/DAO/impl/UserDAOImpl.class
+pl/camp/it/nowyMagazyn/service/IUserService.class
+pl/camp/it/nowyMagazyn/controlers/AutenticationController.class
+pl/camp/it/nowyMagazyn/service/impl/UserServiceImpl.class
+pl/camp/it/nowyMagazyn/App.class
+pl/camp/it/nowyMagazyn/DAO/IUserDAO.class
+pl/camp/it/nowyMagazyn/appConfiguration.class
+pl/camp/it/nowyMagazyn/model/Product.class
